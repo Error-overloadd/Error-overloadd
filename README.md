@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # 👋 Hi, I'm Derek Liu
 
 🎓 Computer Science Major @ University of Calgary | 📊 Math Minor  
-🎓 Master of Engineering ECE student @ University of Calgary |
+🎓 Master of Engineering ECE student @ University of Calgary 
 🌐 Passionate about Full Stack Development, Data Analytics, and Cloud Technologies, Software development Engineer
 
 ---
@@ -27,7 +27,6 @@ I am someone who thrives on staying active, whether it is through my passion for
 
 These activities keep me energized and focused, which I channel into my enthusiasm for coding. Writing code has always been an exciting challenge for me it is a space where I can continuously learn and grow, while solving complex problems. Whether working on full-stack development projects or exploring new technologies, I enjoy every moment of the coding process and love bringing creative ideas to life through my technical skills.
 
---
 
 ## 🛠️ Tech Stack
 
@@ -45,12 +44,6 @@ These activities keep me energized and focused, which I channel into my enthusia
 - Developed a mentorship platform using React and Node.js
 - Implemented multi-date scheduling, JWT authentication, and role-based access control
 - Collaborated with cross-functional teams in an Agile environment
-
----
-
-## 🚀 Featured Projects
-
-
 
 ---
 
