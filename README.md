@@ -23,9 +23,7 @@ Here are some ideas to get you started:
 ---
 ## About Me
 
-My stroy
 I am someone who thrives on staying active, whether it is through my passion for fitness or my love for badminton.
-
 These activities keep me energized and focused, which I channel into my enthusiasm for coding. Writing code has always been an exciting challenge for me it is a space where I can continuously learn and grow, while solving complex problems. Whether working on full-stack development projects or exploring new technologies, I enjoy every moment of the coding process and love bringing creative ideas to life through my technical skills.
 
 
