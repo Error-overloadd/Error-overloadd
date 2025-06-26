@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 # 👋 Hi, I'm Derek Liu
 
 🎓 Computer Science Major @ University of Calgary | 📊 Math Minor  
-🌐 Passionate about Full Stack Development, Data Analytics, and Cloud Technologies
+🎓 Master of Engineering ECE student @ University of Calgary |
+🌐 Passionate about Full Stack Development, Data Analytics, and Cloud Technologies, Software development Engineer
 
 ---
 
@@ -38,22 +39,10 @@ Here are some ideas to get you started:
 - Implemented multi-date scheduling, JWT authentication, and role-based access control
 - Collaborated with cross-functional teams in an Agile environment
 
-### 🔹 Capital Analyst @ Government of Alberta
-- Conducted financial and data analysis for affordable housing projects
-- Built tools for project scoring, summarization, and tracking
-
 ---
 
 ## 🚀 Featured Projects
 
-### 🔸 [Survey Intelligence App](https://github.com/your-username/survey-intelligence-app)
-AI-powered tool to analyze survey responses with OpenAI
-- 🧠 Batch NLP Processing with Prompt Configuration  
-- 📊 CSV upload, insight generation, result export
-
-### 🔸 [RRSP Comparison Tool](https://github.com/your-username/rrsp-app)
-Interactive financial tool comparing RRSP vs. non-RRSP scenarios  
-- Built with React + Recharts, premium membership system coming soon
 
 ---
 
@@ -67,6 +56,6 @@ Interactive financial tool comparing RRSP vs. non-RRSP scenarios
 
 ## 📫 Get in Touch
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link/)
-- 📨 derekliu@example.com  
-- 🌍 Portfolio: [derekliu.dev](https://derekliu.dev)
+- 💼 [LinkedIn](https://www.linkedin.com/in/dongjie-liu/)
+- 📨 liudongjie1119@gmail.com
+- 🌍 Portfolio: [derekliu.dev]([https://derekliu.dev](https://error-overloadd-github-io.vercel.app/))
