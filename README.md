@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 🎓 Computer Science Major @ University of Calgary | 📊 Math Minor  
 🎓 Master of Engineering ECE student @ University of Calgary 
+
 🌐 Passionate about Full Stack Development, Data Analytics, and Cloud Technologies, Software development Engineer
 
 ---
