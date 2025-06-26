@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **Error-overloadd/Error-overloadd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -44,13 +43,6 @@ Here are some ideas to get you started:
 ## 🚀 Featured Projects
 
 
----
-
-## 📈 GitHub Stats
-
-![Derek's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
 
 ---
 
@@ -58,4 +50,4 @@ Here are some ideas to get you started:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/dongjie-liu/)
 - 📨 liudongjie1119@gmail.com
-- 🌍 Portfolio: [derekliu.dev]([https://derekliu.dev](https://error-overloadd-github-io.vercel.app/))
+- 🌍 Portfolio: [Derekliu.dev](https://error-overloadd-github-io.vercel.app/)
